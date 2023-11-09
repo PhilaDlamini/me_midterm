@@ -1,0 +1,11 @@
+# ME35 Midterm
+**Name**: Phila Dlamini
+
+## Project Description:
+- This project builds a temperature sensor that physically displays the temperature it reads using LEDs and posts the data to Adafruit.
+- The sensor allows users to change the temperature units on the display by using a gamepad or by changing the color in an Airtable database.
+
+## File Descriptions:
+- `midterm.py` --> Contains the main code in the project. This code runs on the Pico and is responsible for reading the temperature values and posting them.
+- `gamepad.py` --> Contains the gamepad library that allows us to interface with the gamepad.
+- `mqtt.py` --> Contains the MQTT library used to connect to Adafruit.
