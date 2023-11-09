@@ -9,4 +9,4 @@
 - `midterm.py` --> Contains the main code in the project. This code runs on the Pico and is responsible for reading the temperature values and posting them.
 - `gamepad.py` --> Contains the gamepad library that allows us to interface with the gamepad.
 - `mqq.py` --> Contains the MQTT library used to connect to Adafruit.
-- image_processing.py --> Used for image processing: identifies the color with the largest blob in the supplied image 
+- image_processing.py --> Used for image processing: identifies the color of the blob with the largest area  
