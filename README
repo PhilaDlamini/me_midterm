@@ -8,4 +8,4 @@
 ## File Descriptions:
 - `midterm.py` --> Contains the main code in the project. This code runs on the Pico and is responsible for reading the temperature values and posting them.
 - `gamepad.py` --> Contains the gamepad library that allows us to interface with the gamepad.
-- `mqtt.py` --> Contains the MQTT library used to connect to Adafruit.
+- `mqq.py` --> Contains the MQTT library used to connect to Adafruit.
